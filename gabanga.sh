@@ -25,3 +25,9 @@ Fool
 And I know it before met
 What I'm gonna to do
 I don't know but something special for her
+
+I knew what it's happened. But I don't know so very fast. It's
+unbitteble.
+New life, new day. It's your life and I know be everything good.
+
+Buenos dios
