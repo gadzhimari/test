@@ -1,0 +1,23 @@
+From e5ffb11ea8979166d2ccb5aef393076aaed77a87 Mon Sep 17 00:00:00 2001
+From: Gadzhimari Kachaev <gadzhimari@gmail.com>
+Date: Wed, 24 Aug 2016 11:50:06 +0300
+Subject: [PATCH 2/2] Fucked line.
+
+---
+ rakefile.rb | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/rakefile.rb b/rakefile.rb
+index eb0f24f..cba6d55 100644
+--- a/rakefile.rb
++++ b/rakefile.rb
+@@ -6,3 +6,5 @@ New again and again.
+ And again and again.
+ Rakefile new life and new days.
+ I'd wanna to know is this your?
++
++What do you do today?
+\ No newline at end of file
+-- 
+2.7.4 (Apple Git-66)
+
