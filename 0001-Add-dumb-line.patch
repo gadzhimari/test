@@ -1,0 +1,60 @@
+From b4e118c44ef7e6bfdea3571cf9798797c25f1c49 Mon Sep 17 00:00:00 2001
+From: Gadzhimari Kachaev <gadzhimari@gmail.com>
+Date: Wed, 24 Aug 2016 11:41:45 +0300
+Subject: [PATCH 1/2] Add dumb line.
+
+New alafaria.
+
+Wiz Khalifa your manager.
+
+Added new justa-busta.
+---
+ alafar.rb  | 1 +
+ gabanga.sh | 8 +++++++-
+ hero.css   | 4 ++++
+ 3 files changed, 12 insertions(+), 1 deletion(-)
+
+diff --git a/alafar.rb b/alafar.rb
+index e86c935..85a64c1 100644
+--- a/alafar.rb
++++ b/alafar.rb
+@@ -2,3 +2,4 @@ WTF
+ FAQ
+ In the middle of the night
+ Andrew Rayell has been suspended
++Alafaria is new land.
+\ No newline at end of file
+diff --git a/gabanga.sh b/gabanga.sh
+index e35429f..5b2e124 100644
+--- a/gabanga.sh
++++ b/gabanga.sh
+@@ -24,4 +24,10 @@ I don't know but something special for her
+ Fool
+ And I know it before met
+ What I'm gonna to do
+-I don't know but something special for her
+\ No newline at end of file
++I don't know but something special for her
++
++I knew what it's happened. But I don't know so very fast. It's
++unbitteble.
++New life, new day. It's your life and I know be everything good.
++
++Buenos dios
+\ No newline at end of file
+diff --git a/hero.css b/hero.css
+index 42ce898..beea0fa 100644
+--- a/hero.css
++++ b/hero.css
+@@ -24,3 +24,7 @@
+ .independent {
+ 	anim: 0.5s ease-in;
+ }
++
++.wiz-khalifa {
++	border: 1px solid #f00;
++}
+\ No newline at end of file
+-- 
+2.7.4 (Apple Git-66)
+
