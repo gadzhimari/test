@@ -54,6 +54,13 @@ gulp.task('copy', function() {
         .pipe(gulp.dest(dest.fonts));
 });
 
+gulp.task('copy', function() {
+    gulp.src(src.img)
+        .pipe(gulp.dest(dest.img));
+    gulp.src(src.fonts)
+        .pipe(gulp.dest(dest.fonts));
+});
+
 gulp.task('browser-sync', function() {
     browserSync.init({
         server: dest.root,
